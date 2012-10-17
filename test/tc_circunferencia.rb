@@ -1,6 +1,6 @@
 # Fichero: tc_circunferencia.rb
 
-require "/home/alu4078/LPP/pr4/lib/circunferencia"
+require "circunferencia"
 require "test/unit"
 
 class TestCircunferencia < Test::Unit::TestCase

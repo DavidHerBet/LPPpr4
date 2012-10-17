@@ -1,6 +1,6 @@
 # Fichero: calcular_radio.rb
 
-require "/home/alu4078/LPP/pr4/lib/circunferencia"
+require "circunferencia"
 
 perimetro = (ARGV.shift).to_f
 
